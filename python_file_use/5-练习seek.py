@@ -100,3 +100,4 @@ if __name__ == '__main__':
     #copy_file()
     #modify_movie()
     my_rb()
+    print("test")
