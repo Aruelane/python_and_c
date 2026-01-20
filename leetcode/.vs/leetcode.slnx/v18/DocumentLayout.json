@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\my_code projection\\2026code\\leetcode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E48EBCD-2FBD-4A04-9170-D2B7D0FB4874}|leetcode.vcxproj|D:\\my_code projection\\2026code\\leetcode\\leetcode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E48EBCD-2FBD-4A04-9170-D2B7D0FB4874}|leetcode.vcxproj|solutionrelative:leetcode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "leetcode.cpp",
+              "DocumentMoniker": "D:\\my_code projection\\2026code\\leetcode\\leetcode.cpp",
+              "RelativeDocumentMoniker": "leetcode.cpp",
+              "ToolTip": "D:\\my_code projection\\2026code\\leetcode\\leetcode.cpp",
+              "RelativeToolTip": "leetcode.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-20T14:04:54.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
