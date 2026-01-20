@@ -7,18 +7,18 @@ def use_rename():
     理解相对路径，绝对路径
     :return:
     """
-    print(os.getcwd())
-    os.rename('D:\my_code projection\2026code\day7\file1', 'D:\my_code projection\2026code\day7\file9')
+    os.rename('dir2/file1', 'dir2/file2')
     #os.remove('dir1/file1')
 
 
 def use_dir_func():
     file_list = os.listdir('.')
     print(file_list)
-    # os.mkdir('dir2')
-    # os.rmdir('dir1')
+    #os.mkdir('dir2')
+    #os.rmdir('dir1')
     print(os.getcwd())
     os.chdir('dir2')
+    print(os.getcwd())
     file = open('file1', 'w', encoding='utf8')
     file.close()
 
@@ -63,8 +63,8 @@ def use_stat(file_path):
     print(strftime("%Y-%m-%d %H:%M:%S", gm_time))
 
 if __name__ == '__main__':
-     use_rename()
-    # use_dir_func()
-    # change_dir()
-    # scan_dir('.', 0)
-    #use_stat('file4')
+     #use_rename()
+    #use_dir_func()
+    #change_dir()
+     #scan_dir('.', 0)
+    use_stat('file4')
