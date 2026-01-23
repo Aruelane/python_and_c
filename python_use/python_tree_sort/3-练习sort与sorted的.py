@@ -25,8 +25,8 @@ print(sorted(student_tuples, key=lambda x: x[2]))
 
 
 class Student:
-    def __init__(self, name, grade, age):
-        self.name = name
+    def __init__(self, name, grade, age):#注意，对象是拷贝的第一层
+        self.name = name#这里已经是第二层了
         self.grade = grade
         self.age = age
 
