@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\my_code projection\\2026code\\leetcode\\",
+  "WorkspaceRootPath": "D:\\my_code projection\\2026code\\python_and_c\\leetcode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E48EBCD-2FBD-4A04-9170-D2B7D0FB4874}|leetcode.vcxproj|D:\\my_code projection\\2026code\\leetcode\\leetcode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1E48EBCD-2FBD-4A04-9170-D2B7D0FB4874}|leetcode.vcxproj|solutionrelative:leetcode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\my_code projection\\2026code\\python_and_c\\leetcode\\leetcode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "leetcode.cpp",
-              "DocumentMoniker": "D:\\my_code projection\\2026code\\leetcode\\leetcode.cpp",
+              "DocumentMoniker": "D:\\my_code projection\\2026code\\python_and_c\\leetcode\\leetcode.cpp",
               "RelativeDocumentMoniker": "leetcode.cpp",
-              "ToolTip": "D:\\my_code projection\\2026code\\leetcode\\leetcode.cpp",
+              "ToolTip": "D:\\my_code projection\\2026code\\python_and_c\\leetcode\\leetcode.cpp",
               "RelativeToolTip": "leetcode.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwG8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-21T12:25:14.41Z",
               "EditorCaption": ""

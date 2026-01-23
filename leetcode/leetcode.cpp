@@ -84,6 +84,30 @@ int findMaxK(int* nums, int numsSize) {
 }
 
 
+//二进制链表转整数
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     struct ListNode *next;
+ * };
+ */
+int getDecimalValue(struct ListNode* head) {
+    struct ListNode* p = head;
+    int i = 0, sum = 0, len = 0;
+    while (p) {
+        p = p->next;
+        len++;
+    }
+    p = head;
+    while (p) {
+        sum += (int)pow(2.0, (float)(len - i - 1)) * p->val;
+        p = p->next;
+        i++;
+    }
+    return sum;
+}
+
 
 
 
@@ -96,7 +120,7 @@ int findMaxK(int* nums, int numsSize) {
 int main(void) {
 
 
-
+    
     getchar();
     return 0;
 }
