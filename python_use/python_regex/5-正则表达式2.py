@@ -30,6 +30,6 @@ def use_option():
     print(re.match(r'.*','abc\ndef',flags=re.S).group())
 
 if __name__ == '__main__':
-    # use_greedy()
+    use_greedy()
     # use_r()
-    use_option()
+    #use_option()
